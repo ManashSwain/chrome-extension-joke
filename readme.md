@@ -34,3 +34,8 @@ If you wish to modify the API for jokes:
 
     Open the popup.js file.
     Replace the API URL with your preferred joke API.
+
+
+example :
+
+![alt text](image.png)
